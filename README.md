@@ -1,5 +1,5 @@
 ## About This App
-This is a functional Video Sharing Application built with React during Day 4 of a 50 Days of React Udemy Course.
+React project made during Day 4 of "50 Days of React" by Sufa Digital Media on Udemy.
 This application allows you to browse through videos through YouTube's API, searching by term.
 
 ## How To Install
